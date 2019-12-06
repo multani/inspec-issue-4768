@@ -1,0 +1,9 @@
+name: default
+inputs:
+  - name: foo
+    type: numeric
+    required: true
+
+  - name: bar
+    type: string
+    required: true
